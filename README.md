@@ -1,4 +1,4 @@
-# Hy there 👋, I'm [Durgesh Samariya]
+# Hy there 👋, I'm Junaid Ali
 ### student of BS Computer Science ✨
 
 - 👋 Hi, I’m @engrjunaidali
