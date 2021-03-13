@@ -1,7 +1,8 @@
-<p align="center"> <h1 align="center"> Junaid Ali </h1> </p>
+<p align="center"> <h1 align="center"> Hy there 👋, I'm Junaid Ali </h1> </p>
 <p align="center">
+<p align="center"> <h2 align="center"> Student of BS Computer Science ✨</h2> </p>
 # Hy there 👋, I'm Junaid Ali
-### student of BS Computer Science ✨
+### student of BS Computer Science 
 
 - 👋 Hi, I’m @engrjunaidali
 - 👀 Interested in **Python, Javascript**
