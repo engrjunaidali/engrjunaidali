@@ -7,6 +7,7 @@
 - 👀 Interested in **Python, Javascript**
 - 🌱 Currently learning **REACT**
 - 📫 How to reach me **engrjunaidali0@gmail.com**
+- `Youtube` - [Junaid Ali](https://www.youtube.com/channel/UC7hWEeEFoZWbhu9qlGQWdLQ?sub_confirmation=1)
 
 
 
