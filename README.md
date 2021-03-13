@@ -1,3 +1,5 @@
+<p align="center"> <h1 align="center"> Junaid Ali </h1> </p>
+<p align="center">
 # Hy there 👋, I'm Junaid Ali
 ### student of BS Computer Science ✨
 
