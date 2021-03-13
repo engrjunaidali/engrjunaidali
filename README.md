@@ -13,6 +13,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrjunaidali&theme=default&langs_count=8)](https://github.com/Fashad-Ahmed/github-readme-stats)
 
 <p align="center"> <h1 align="center"> Youtube Channel </h1> </p>
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=engrjunaidali&show_icons=true alt=Elangovan />
+</p>
 - **[Junaid Ali](https://www.youtube.com/channel/UC7hWEeEFoZWbhu9qlGQWdLQ?sub_confirmation=1)**
 <!---
 engrjunaidali/engrjunaidali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
