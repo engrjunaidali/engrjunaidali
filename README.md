@@ -1,5 +1,5 @@
-# Hy there 👋
-### I'm student of BS Computer Science ✨
+# Hy there 👋, I'm [Durgesh Samariya]
+### student of BS Computer Science ✨
 
 - 👋 Hi, I’m @engrjunaidali
 - 👀 I’m interested in Python, Javascript
