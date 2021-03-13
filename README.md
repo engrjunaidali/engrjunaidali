@@ -1,3 +1,6 @@
+# Hello folks 👋
+### I'm student of BS Computer Science ✨
+
 - 👋 Hi, I’m @engrjunaidali
 - 👀 I’m interested in Python, Javascript
 - 🌱 I’m currently learning React
