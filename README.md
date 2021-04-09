@@ -6,9 +6,7 @@
 - 👋 Hi, I’m @engrjunaidali
 - 👀 Interested in **Python, Javascript**
 - 🌱 Currently learning **REACT**
-- 📫 How to reach me **engrjunaidali0@gmail.com**
 - `Youtube` - [Junaid Ali](https://www.youtube.com/channel/UC7hWEeEFoZWbhu9qlGQWdLQ?sub_confirmation=1)
-- `Behance` - [Junaid Ali](https://www.behance.net/junaidali113)
 
 <p align="center"> <h1 align="center">Stats</h1> </p>
 
