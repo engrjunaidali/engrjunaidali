@@ -9,7 +9,7 @@
 - `Youtube` - [Junaid Ali](https://www.youtube.com/channel/UC7hWEeEFoZWbhu9qlGQWdLQ?sub_confirmation=1)
 
 ![Junaid's github stats](https://github-readme-stats.vercel.app/api?username=engrjunaidali&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrjunaidali&theme=midnight-purple&langs_count=8)](https://github.com/Fashad-Ahmed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrjunaidali&theme=midnight-purple&langs_count=8)](https://github.com/engrjunaidali/github-readme-stats)
 
 
 <!---
