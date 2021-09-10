@@ -5,7 +5,7 @@
 ### Hi there 👋 This is Junaid Ali
 ![counter](https://enepz9y4vt3svs0.m.pipedream.net)
 
-- 👯 Learned PYTHON, C++, HTML, CSS and JAVASCRIPT
+- 👯 Learned PYTHON, C++, SQL, HTML, CSS and JAVASCRIPT
 - 🌱 Currently learning  React JS...
 - 💬 Always available to help you
 - 📫 Reach me: engrjunaidali0@gmail.com
