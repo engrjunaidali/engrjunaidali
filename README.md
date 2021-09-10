@@ -1,12 +1,12 @@
-<p align="center"> <h1 align="center">Junaid Ali </h1> </p>
+<p align="center"> <h1 align="center">To Be React Developer </h1> </p>
 <p align="center">
 <p align="center"> <h2 align="center"> Student of BS Computer Science ✨</h2> </p>
 
 ### Hi there 👋 This is Junaid Ali
 ![counter](https://enepz9y4vt3svs0.m.pipedream.net)
 
-- 👯 Learned PYTHON,C++ ...
-- 🌱 Currently learning HTML,CSS and JAVASCRIPT ...
+- 👯 Learned PYTHON, C++, HTML, CSS and JAVASCRIPT
+- 🌱 Currently learning  React JS...
 - 💬 Always available to help you
 - 📫 Reach me: engrjunaidali0@gmail.com
 - ⚡ Quote: The only place where "SUCCESS" comes before the "WORK" is in dictionary !...
