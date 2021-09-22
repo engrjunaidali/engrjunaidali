@@ -24,10 +24,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**languages and tools:**  
+**Website Designs**  
 
 <ul>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/35">javascript</a>: </li>
+  <li><a href="https://engrjunaidali.github.io/webdata.github.io">Web Data</a></li>
 </ul>
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=engrjunaidali&&show_icons=true&theme=tokyonight)
