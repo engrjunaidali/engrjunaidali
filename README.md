@@ -28,6 +28,8 @@
 
 <ul>
   <li><a href="https://engrjunaidali.github.io/webdata.github.io">Web Data</a></li>
+  <li><a href="https://engrjunaidali.github.io/AcmeWebDesign.github.io/">Acme Web Design</a></li>
+  <li><a href="https://engrjunaidali.github.io/TourSite.github.io/">Tour Site</a></li>
 </ul>
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=engrjunaidali&&show_icons=true&theme=tokyonight)
