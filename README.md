@@ -24,6 +24,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**languages and tools:**  
+
+<ul>
+  <li><a href="https://github.com/sw-yx/sw-yx/issues/35">javascript</a>: </li>
+</ul>
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=engrjunaidali&&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrjunaidali&theme=shades-of-purple&langs_count=8)](https://github.com/junaidali1/github-readme-stats)
