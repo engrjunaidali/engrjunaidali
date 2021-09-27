@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/junaidali113/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/engr.junaid.ali/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
-### Hi there 👋 This is Junaid Ali
-![counter](https://enepz9y4vt3svs0.m.pipedream.net)
 
 - 👯 Learned PYTHON, C++, SQL, HTML, CSS and JAVASCRIPT
 - 🌱 Currently learning  React JS...
