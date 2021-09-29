@@ -28,6 +28,7 @@
 **Website Designs**  
 
 <ul>
+  <li><a href="https://engrjunaidali.github.io/loginAnimation.github.io">Login Animation Page</a></li>
   <li><a href="https://engrjunaidali.github.io/webdata.github.io">Web Data</a></li>
   <li><a href="https://engrjunaidali.github.io/AcmeWebDesign.github.io/">Acme Web Design</a></li>
   <li><a href="https://engrjunaidali.github.io/TourSite.github.io/">Tour Site</a></li>
