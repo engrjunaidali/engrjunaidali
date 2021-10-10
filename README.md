@@ -6,8 +6,8 @@
   <a href="https://www.instagram.com/engr.junaid.ali/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-- 👯 Learned PYTHON, C++, SQL, HTML, CSS and JAVASCRIPT
-- 🌱 Currently learning  React JS...
+- 👯 Learned PYTHON, C++, SQL, HTML, CSS and JAVASCRIPT, React JS
+- 🌱 Currently learning  PHP...
 - 💬 Always available to help you
 - 📫 Reach me: engrjunaidali0@gmail.com
 - ⚡ Quote: The only place where "SUCCESS" comes before the "WORK" is in dictionary !...
