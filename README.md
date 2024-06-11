@@ -1,17 +1,16 @@
-<p align="center">
-  <h1 align="center">Web Developer ✨</h1>
-</p>
-<p align="center">
-  <a href="https://twitter.com/junaidali113"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"></a>
-  <a href="https://www.linkedin.com/in/junaidali113/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
-  <a href="https://www.instagram.com/engr.junaid.ali/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
-</p>
-
-<p align="center">👯 Learned PYTHON, C++, SQL, HTML, CSS and JAVASCRIPT, React JS, PHP</p>
-<p align="center">🌱 Currently learning LARAVEL...</p>
-<p align="center">💬 Always available to help you</p>
-<p align="center">📫 Reach me: engrjunaidali0@gmail.com</p>
-<p align="center">⚡ Quote: The only place where "SUCCESS" comes before the "WORK" is in the dictionary!...</p>
+<div class="center">
+      <h1>👨‍💻 PHP Laravel Full Stack Developer ✨</h1>
+      <p>
+        <a href="https://twitter.com/junaidali113"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"></a>
+        <a href="https://www.linkedin.com/in/junaidali113/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
+        <a href="https://www.instagram.com/engr.junaid.ali/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
+      </p>
+      <p>👯 Learned PYTHON, C++, SQL, HTML, CSS and JAVASCRIPT, React JS, PHP</p>
+      <p>🌱 Currently learning LARAVEL...</p>
+      <p>💬 Always available to help you</p>
+      <p>📫 Reach me: <a href="mailto:engrjunaidali0@gmail.com">engrjunaidali0@gmail.com</a></p>
+      <p>⚡ Quote: The only place where "SUCCESS" comes before the "WORK" is in the dictionary!...</p>
+    </div>
 
 ### Languages and Tools
 <p align="center">
