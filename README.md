@@ -5,10 +5,11 @@
         <a href="https://www.linkedin.com/in/junaidali113/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
         <a href="https://www.instagram.com/engr.junaid.ali/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
       </p>
-      <p>👯 Learned PYTHON, C++, SQL, HTML, CSS and JAVASCRIPT, React JS, PHP</p>
+      <p>👯 Expertise in Laravel, React, Node, Express, Nestjs, NextJs, MySql, Postgres</p>
       <p>🌱 Currently learning LARAVEL...</p>
       <p>💬 Always available to help you</p>
-      <p>📫 Reach me: <a href="mailto:engrjunaidali0@gmail.com">engrjunaidali0@gmail.com</a></p>
+      <p>📫 Reach me: <a href="mailto:engrjunaidali0@gmail.com">engrjunaidali0@gmail.com</a>
+<a href="mailto:haseebullahMemon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-HaseebullahMemon?style=flat-square&logo=gmail"></a> </p>
       <p>⚡ Quote: The only place where "SUCCESS" comes before the "WORK" is in the dictionary!...</p>
     </div>
 
@@ -26,19 +27,6 @@
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
-### Website Designs
-<ul>
-  <li><a href="https://fancytowels.junaidali.me"><strong>Fancy Towels</strong></a> [Working]</li>
-  <li><a href="governmarket.com"><strong>Governmarket</strong> Ecommerce Website</a></li>
-  <li><a href="#"><strong>Portal System (Laravel)</strong> [Working]</a></li>
-  <li><a href="#"><strong>Lease System (Laravel)</strong></a></li>
-  <li><a href="#"><strong>Cart System (Laravel)</strong></a></li>
-  <li><a href="https://binhabibtraders.com"><strong>Bin Habib Traders Website</strong></a></li>
-  <li><a href="https://engrjunaidali.github.io/loginAnimation.github.io"><strong>Login Animation Page</strong></a></li>
-  <li><a href="https://engrjunaidali.github.io/webdata.github.io"><strong>Web Data</strong></a></li>
-  <li><a href="https://engrjunaidali.github.io/AcmeWebDesign.github.io/"><strong>Acme Web Design</strong></a></li>
-  <li><a href="https://engrjunaidali.github.io/TourSite.github.io/"><strong>Tour Site</strong></a></li>
-</ul>
 
 ### GitHub Stats
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=engrjunaidali&&show_icons=true&theme=tokyonight)
