@@ -8,8 +8,7 @@
       <p>👯 Expertise in Laravel, React, Node, Express, Nestjs, NextJs, MySql, Postgres</p>
       <p>🌱 Currently learning LARAVEL...</p>
       <p>💬 Always available to help you</p>
-      <p>📫 Reach me: <a href="mailto:engrjunaidali0@gmail.com">engrjunaidali0@gmail.com</a>
-<a href="mailto:haseebullahMemon@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-HaseebullahMemon?style=flat-square&logo=gmail"></a> </p>
+      <p>📫 Reach me: <a href="mailto:engrjunaidali0@gmail.com">engrjunaidali0@gmail.com</a></p>
       <p>⚡ Quote: The only place where "SUCCESS" comes before the "WORK" is in the dictionary!...</p>
     </div>
 
