@@ -18,7 +18,12 @@
 
 
 ### GitHub Stats
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=engrjunaidali&&show_icons=true&theme=tokyonight)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrjunaidali&theme=tokyonight" alt="engrjunaidali" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrjunaidali&show_icons=true&locale=en&theme=tokyonight" alt="engrjunaidali" /></p>
+
+
 
 <!--
 **junaidali1/junaidali1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
