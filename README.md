@@ -1,9 +1,7 @@
 <div class="center">
       <h1>👨‍💻 PHP Laravel Full Stack Developer ✨</h1>
       <p>
-        <a href="https://twitter.com/junaidali113"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25"></a>
         <a href="https://www.linkedin.com/in/junaidali113/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>
-        <a href="https://www.instagram.com/engr.junaid.ali/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"></a>
       </p>
       <p>👯 Expertise in Laravel, React, Node, Express, Nestjs, NextJs, MySql, Postgres</p>
       <p>🌱 Currently learning LARAVEL...</p>
